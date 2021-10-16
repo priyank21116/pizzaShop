@@ -1,6 +1,6 @@
-# View the full tutorial on Youtube
+It is a tutorial project. Inspired by Brien Design. Not independently coded by me. Made in June-2021
 
-Watch my step by step tutorial on how I made this site here https://youtu.be/GlROncAX4XI
+![demo](./src/images/demo.gif)
 
 # Getting Started with Create React App
 
