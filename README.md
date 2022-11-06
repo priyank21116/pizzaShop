@@ -1,4 +1,4 @@
-It is a tutorial project. Inspired by Brien Design. Not independently coded by me. Made in June-2021
+It is a tutorial project. Inspired by Brien Design. Made in June-2021
 
 ![demo](./src/images/demo.gif)
 
